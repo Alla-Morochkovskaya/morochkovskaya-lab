@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Новости технологий</title>
+        <link>https://example.com/technews</link>
+        <description>Последние новости из мира технологий</description>
+        <item>
+            <title>Новый смартфон от компании X</title>
+            <link>https://example.com/technews/smartphone-x</link>
+            <description>Компания X представила свой новый смартфон с уникальными функциями.</description>
+            <pubDate>Mon, 21 Apr 2025 09:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Обновление ОС Y</title>
+            <link>https://example.com/technews/os-y-update</link>
+            <description>Операционная система Y получила крупное обновление с новыми возможностями.</description>
+            <pubDate>Mon, 20 Apr 2025 15:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
